@@ -1,16 +1,16 @@
-# Introducción
-¡Hola! Soy superkraft388, un desarrollador entusiasta con pasión por la programación y la innovación.
+# superkraft388
 
-# Habilidades
-- 🚀 Programación en Python, JavaScript y C++
-- 🌐 Desarrollo web (HTML, CSS, React)
-- 📊 Análisis de datos y machine learning
-- 🛠️ Herramientas: Git, Docker, VSCode
+**Thème :** blockchain
 
-# Proyectos
-- **[Proyecto1](https://github.com/superkraft388/proyecto1)**: Una aplicación web para la gestión de tareas.
-- **[Proyecto2](https://github.com/superkraft388/proyecto2)**: Un análisis de datos sobre tendencias de mercado.
+## À propos
+Focalisé sur blockchain.
 
-# Contactos
-- 📧 Correo: superkraft388@example.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/superkraft388)
+## Tech
+- Python · Git · CI/CD
+- - blockchain
+- ethereum
+- solidity
+- smart-contracts
+
+## Liens
+- Profil : https://github.com/superkraft388
